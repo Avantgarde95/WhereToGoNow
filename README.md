@@ -28,6 +28,6 @@ Main repository for CS408
 
 ### Screenshots
 ![Screenshot-1](https://i.imgur.com/WmjGN7b.png)
-![Screenshot-2](https://i.imgur.com/jlrhDbB.png)
-![Screenshot-3](https://i.imgur.com/WmjGN7b.png)
-![Screenshot-4](https://i.imgur.com/jkUHWAq.png)
+![Screenshot-2](https://i.imgur.com/jkUHWAq.png)
+![Screenshot-3](https://i.imgur.com/jlrhDbB.png)
+![Screenshot-4](https://i.imgur.com/3vWadCm.png)
